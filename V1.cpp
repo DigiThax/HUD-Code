@@ -87,5 +87,3 @@ void getResponse()
     }
   }
 }//End of UDF
- 
-// Thank you for spending your time to help me out :)
