@@ -1,3 +1,5 @@
+//A working test code to obtain RPM from vehicle
+
 #include<GOFi2cOLED.h>
 #include<SoftwareSerial.h>
 
